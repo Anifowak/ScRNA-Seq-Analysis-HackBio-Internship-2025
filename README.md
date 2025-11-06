@@ -19,4 +19,4 @@ simple_code.py
 
 ---
 - Create a Short Carousel: Design 4–5 slides summarizing your essay.
-- Share the carousel on any social media platform of your choice (Linkedin)[.
+- Share the carousel on any social media platform of your choice (Linkedin)[https://www.linkedin.com/posts/akinjide-anifowose-4a482a189_another-exciting-moment-on-my-learning-activity-7392291998151647232-NbA6?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxwWDwBdP0u1hUD96Vhgb8-lyNj4JECySw].
