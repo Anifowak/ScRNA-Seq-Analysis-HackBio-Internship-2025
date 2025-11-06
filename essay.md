@@ -1,5 +1,5 @@
 # 🧬 What Single-Cell Data Is Teaching Us About Cancer Evolution
-### Author: Funmilayo Christianah Ligali
+### Author: Akinjide Anifowose
 
 ## Stage Zero – HackBio Landing: Technical Writing and Appreciation of Single-Cell Genomics
 
